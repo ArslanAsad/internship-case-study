@@ -9,7 +9,7 @@ This is a responsive single-page event listing website built using **React** and
 - **JavaScript** (for dynamic data rendering and filtering)
 - **Dummy JSON** (simulated fetch for event data)
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository**
    ```bash
